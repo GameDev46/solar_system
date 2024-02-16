@@ -1,12 +1,12 @@
 <a href="https://github.com/GameDev46" title="Go to GitHub repo">
-    <img src="https://img.shields.io/static/v1?label=GameDev46&message=Profile&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - solar_system">
-    <img src="https://img.shields.io/badge/Version-1.1.3-green?style=for-the-badge&labelColor=1f1f22&color=Green" alt="GameDev46 - solar_system">
+    <img src="https://img.shields.io/static/v1?label=GameDev46&message=|&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - solar_system">
+    <img src="https://img.shields.io/badge/Version-0.2.0-green?style=for-the-badge&labelColor=1f1f22&color=Green" alt="GameDev46 - solar_system">
 </a>
 
 
-![Static Badge](https://img.shields.io/badge/-HTML5-1f1f22?style=for-the-badge&logo=HTML5)
-![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
-![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=HTML5)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=JavaScript)
     
 <a href="https://github.com/GameDev46/solar_system/stargazers">
     <img src="https://img.shields.io/github/stars/GameDev46/solar_system?style=for-the-badge&labelColor=1f1f22" alt="stars - solar_system">
@@ -17,17 +17,6 @@
 <a href="https://github.com/GameDev46/solar_system/issues">
     <img src="https://img.shields.io/github/issues/GameDev46/solar_system?style=for-the-badge&labelColor=1f1f22&color=blue"/>
  </a>
-
-<br>
-<br>
-
-<a href="https://github.com/GameDev46/solar_system/releases/">
-    <img src="https://img.shields.io/github/tag/GameDev46/solar_system?include_prereleases=&sort=semver&color=Green&style=for-the-badge&labelColor=1f1f22" alt="GitHub tag">
-</a>
-
-<a href="https://github.com/GameDev46/solar_system/issues">
-    <img src="https://img.shields.io/github/issues/GameDev46/solar_system?style=for-the-badge&labelColor=1f1f22" alt="issues - solar_system">
-</a>
 
 <br>
 <br>
@@ -48,8 +37,14 @@
 
 # solar_system
 
-A simple animation of the solar system
+A simple animation of our solar system using HTML, CSS and JS
 
-## Website
+# Usage
 
-[website](https://gamedev46.github.io/solar_system/)
+*Speed* - The speed at which the planets move around the sun
+
+*Show orbits* - Controls whether the orbital paths are shown for each planet
+
+*Default to realtime* - Sets the speed to accurately mimic the actual movement of the planets in our solar system
+
+*Reset* - Resets the simulation
